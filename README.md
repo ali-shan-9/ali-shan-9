@@ -33,33 +33,69 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" alt="AI illustration" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-```python
-class AliShan:
-    def __init__(self):
-        self.name = "Ali Shan"
-        self.role = "Machine Learning & AI Engineer"
-        self.education = "University of Kotli, Azad Jammu & Kashmir"
-        self.languages = ["Python", "C++", "C", "HTML", "CSS"]
-        self.focus = ["Machine Learning", "Deep Learning",
-                      "Computer Vision", "Speech Processing"]
-        self.currently_learning = ["Transformers", "MLOps", "Edge AI"]
-        self.fun_fact = "Built a digit recognizer with 99.37% MNIST accuracy"
+I'm an **undergraduate AI Engineer** at the **University of Kotli, Azad Jammu & Kashmir**, focused on building production-grade machine learning systems that solve real-world problems.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile — let's build something amazing!")
-```
+My work spans **classical ML, deep learning, computer vision, and speech processing** — from credit-scoring classifiers and medical-imaging CNNs to real-time gesture recognition and speech-emotion models.
 
-- 🎓 **Undergraduate AI Engineer** at the **University of Kotli, Azad Jammu & Kashmir**
-- 🔭 Currently building **end-to-end ML pipelines** — classification, deep learning, computer vision, speech
-- 🌱 Deep-diving into **Transformers**, **MLOps**, and **Edge AI**
-- 💼 Just completed a **Machine Learning Internship at CodeAlpha** — [see all 4 projects ↓](#-featured-projects)
-- 💬 Ask me about: **Python, scikit-learn, TensorFlow, OpenCV, librosa, deep learning**
-- 💼 **Open to:** Freelance work · Research collaborations · Full-time AI Engineer roles
-- ⚡ Fun fact: I built a **handwritten digit recognizer with 99.37% accuracy** on MNIST
+- 🎓 Currently pursuing a degree in **Artificial Intelligence**
+- 🔭 Building **end-to-end ML pipelines** with clean code, proper evaluation, and reproducible results
+- 🌱 Deep-diving into **Transformers, MLOps, and Edge AI**
+- 💼 Open to **Freelance projects · Research collaborations · Full-time AI Engineer roles**
+- 💬 Ask me about: **Python, scikit-learn, TensorFlow, Keras, OpenCV, librosa, XGBoost**
+- ⚡ Fun fact: I built a handwritten digit recognizer with **99.37% accuracy** on MNIST
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/CENTAIC-1a4d8c?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CENTAIC" /><br/>
+      <sub><b>Centre of Artificial<br/>Intelligence & Computing</b></sub><br/>
+      <sub>NASTP-Alpha, Rawalpindi</sub>
+    </td>
+    <td width="65%" valign="top">
+      <h4>🛩 Machine Learning / Artificial Intelligence Intern</h4>
+      <p>
+        <i>CENTAIC Technology Division · NASTP-Alpha</i><br/>
+        <code>Jun 2025 — Aug 2025 · 8 weeks</code>
+      </p>
+      <p>
+        Selected for an intensive 8-week ML/AI internship at <b>CENTAIC</b> — Pakistan's national center for AI & computing under the <b>National Aerospace Science & Technology Park (NASTP)</b>. Worked on applied machine learning research and computing projects in a defense-aerospace R&D environment.
+      </p>
+      <p><i>Certified by Air Commodore Faisal Nawaz, Chief Director — CENTAIC</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/CodeAlpha-00d9ff?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeAlpha" /><br/>
+      <sub><b>CodeAlpha</b></sub><br/>
+      <sub>Machine Learning Internship</sub>
+    </td>
+    <td width="65%" valign="top">
+      <h4>🤖 Machine Learning Intern</h4>
+      <p>
+        <i>CodeAlpha</i><br/>
+        <code>2026 · 4 complete tasks delivered</code>
+      </p>
+      <p>
+        Delivered <b>all 4 tasks</b> in the CodeAlpha ML internship program:
+      </p>
+      <ul>
+        <li><b>Credit Scoring Model</b> — ROC-AUC 0.916</li>
+        <li><b>Speech Emotion Recognition</b> — 100% test accuracy (6 emotions)</li>
+        <li><b>Handwritten Character Recognition</b> — 99.37% MNIST</li>
+        <li><b>Disease Prediction</b> — AUC 0.996 / 0.898 / 0.939 (3 diseases)</li>
+      </ul>
+      <p>📦 <a href="https://github.com/ali-shan-9/codealpha_tasks">View the repository →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
