@@ -233,25 +233,6 @@ My work spans **classical ML, deep learning, computer vision, and speech process
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-shan-9&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ali-shan-9">
-    <img src="https://github-readme-stats.vercel.app/api?username=ali-shan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/ali-shan-9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shan-9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  </a>
-</p>
-
-> <sub>📌 If the stat cards above don't load, <a href="https://github.com/ali-shan-9">visit my profile directly</a> — sometimes external services rate-limit on first load. Refresh once and they appear.</sub>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
