@@ -243,14 +243,6 @@ My work spans **classical ML, deep learning, computer vision, and speech process
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ali-shan-9/ali-shan-9/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
