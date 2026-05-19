@@ -297,20 +297,6 @@ My work spans **classical ML, deep learning, computer vision, and speech process
 
 ---
 
-## 🎵 Currently Vibing To
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31utw3jaa7utnijfnv5p4mzmlkxe">
-    <img src="https://spotify-github-profile.kittinan.app/api/view?uid=31utw3jaa7utnijfnv5p4mzmlkxe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>🎧 <i>Code goes better with the right beat.</i></sub>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
