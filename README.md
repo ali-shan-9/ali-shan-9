@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <h3 align="center">
   <a href="https://github.com/ali-shan-9">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Ali+Shan+%F0%9F%91%8B;Machine+Learning+%26+AI+Engineer;Computer+Vision+%26+Deep+Learning;Freelancer+%E2%80%A2+Builder+%E2%80%A2+Always+Learning" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Ali+Shan+%F0%9F%91%8B;Machine+Learning+%26+AI+Engineer;Computer+Vision+%26+Deep+Learning;Freelancer+%E2%80%A2+Builder+%E2%80%A2+Always+Learning" alt="Typing Animation" />
   </a>
 </h3>
 
@@ -274,6 +274,27 @@ My work spans **classical ML, deep learning, computer vision, and speech process
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-shan-9&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<p align="center">
+  <i>Writing about machine learning, deep learning, and what I build.</i>
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+<sub><i>📝 Posts will auto-appear here once I publish on Dev.to / Medium. Setting up shortly — stay tuned!</i></sub>
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://dev.to/ali-shan-9">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@alishan7321">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
