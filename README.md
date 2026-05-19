@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <h3 align="center">
   <a href="https://github.com/ali-shan-9">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Ali+Shan+%F0%9F%91%8B;Machine+Learning+%26+AI+Engineer;Computer+Vision+%26+Deep+Learning; Freelancer+%E2%80%A2+Builder+%E2%80%A2+Always+Learning" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Ali+Shan+%F0%9F%91%8B;Machine+Learning+%26+AI+Engineer;Computer+Vision+%26+Deep+Learning;Freelancer+%E2%80%A2+Builder+%E2%80%A2+Always+Learning" alt="Typing Animation" />
   </a>
 </h3>
 
