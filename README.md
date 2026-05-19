@@ -145,78 +145,110 @@ My work spans **classical ML, deep learning, computer vision, and speech process
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏆 CodeAlpha ML Internship</h3>
-      <p align="center">
-        <a href="https://github.com/ali-shan-9/codealpha_tasks">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-shan-9&repo=codealpha_tasks&theme=tokyonight&hide_border=true" alt="CodeAlpha Tasks" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://github.com/ali-shan-9/codealpha_tasks">CodeAlpha ML Internship</a></h3>
+      <p>
+        Complete portfolio of 4 production-grade ML projects: Credit Scoring, Speech Emotion Recognition, Handwritten Recognition, and Disease Prediction.
       </p>
-      <p align="center">
-        <b>4 complete ML projects:</b><br/>
-        Credit Scoring · Speech Emotion · MNIST CNN · Disease Prediction<br/>
-        <i>Best: 99.37% MNIST acc · 0.996 AUC Breast Cancer</i>
+      <p>
+        <b>📊 Results:</b><br/>
+        • Credit Scoring → <b>ROC-AUC 0.916</b><br/>
+        • Speech Emotion → <b>100% test accuracy</b><br/>
+        • MNIST CNN → <b>99.37% accuracy</b><br/>
+        • Disease Prediction → <b>0.996 / 0.898 / 0.939 AUC</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-006400?style=flat&logo=xgboost&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">✍️ MNIST Digit Recognizer</h3>
-      <p align="center">
-        <a href="https://github.com/ali-shan-9/Handwritten-Digit-MNIST-using-CNN-and-pygame">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-shan-9&repo=Handwritten-Digit-MNIST-using-CNN-and-pygame&theme=tokyonight&hide_border=true" alt="MNIST Pygame" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/ali-shan-9/Handwritten-Digit-MNIST-using-CNN-and-pygame">MNIST Digit Recognizer</a></h3>
+      <p>
+        Interactive CNN app — draw a digit on a Pygame canvas and get an instant prediction from a trained Keras model.
       </p>
-      <p align="center">
-        <b>Interactive CNN app</b> — draw digits on canvas, get real-time predictions.<br/>
-        <i>Keras + OpenCV + Pygame</i>
+      <p>
+        <b>🎯 Features:</b><br/>
+        • Live drawing interface (Pygame)<br/>
+        • Real-time CNN inference<br/>
+        • OpenCV image preprocessing<br/>
+        • Pre-trained model included
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pygame-90C737?style=flat&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Brain Tumor Detection</h3>
-      <p align="center">
-        <a href="https://github.com/ali-shan-9/Brain-Tumor-detection-using-Deep-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-shan-9&repo=Brain-Tumor-detection-using-Deep-Learning&theme=tokyonight&hide_border=true" alt="Brain Tumor" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/ali-shan-9/Brain-Tumor-detection-using-Deep-Learning">Brain Tumor Detection</a></h3>
+      <p>
+        Deep CNN that classifies MRI brain scans as <b>tumor</b> or <b>non-tumor</b> — built for assistive medical imaging.
       </p>
-      <p align="center">
-        <b>Deep CNN</b> classifies MRI brain scans as tumor / non-tumor.<br/>
-        <i>Image preprocessing · Model evaluation</i>
+      <p>
+        <b>🔬 Pipeline:</b><br/>
+        • Image preprocessing & augmentation<br/>
+        • Deep CNN classification<br/>
+        • Accuracy & confusion-matrix eval<br/>
+        • Reproducible Jupyter notebook
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNN-blue?style=flat" />
+        <img src="https://img.shields.io/badge/Medical_AI-D14836?style=flat" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤟 Real-time Hand Gesture (ASL)</h3>
-      <p align="center">
-        <a href="https://github.com/ali-shan-9/Real-time-Hand-Gesture-Recognition-A-to-Z-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-shan-9&repo=Real-time-Hand-Gesture-Recognition-A-to-Z-&theme=tokyonight&hide_border=true" alt="Gesture" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🤟 <a href="https://github.com/ali-shan-9/Real-time-Hand-Gesture-Recognition-A-to-Z-">Real-time ASL Recognition</a></h3>
+      <p>
+        Real-time recognition of <b>American Sign Language A–Z</b> gestures via webcam feed using a CNN classifier — for accessibility and sign-language learning tools.
       </p>
-      <p align="center">
-        <b>ASL A-Z recognition</b> via live webcam feed + CNN.<br/>
-        <i>Built for sign-language accessibility</i>
+      <p>
+        <b>📷 Features:</b><br/>
+        • Live webcam capture<br/>
+        • Hand region detection<br/>
+        • 26-class A–Z classifier<br/>
+        • Optimized for real-time speed
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-1572B6?style=flat" />
       </p>
     </td>
   </tr>
 </table>
 
-</div>
+<p align="center">
+  <a href="https://github.com/ali-shan-9?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-shan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-shan-9&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-shan-9&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shan-9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <a href="https://github.com/ali-shan-9">
+    <img src="https://github-readme-stats.vercel.app/api?username=ali-shan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/ali-shan-9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shan-9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  </a>
 </p>
+
+> <sub>📌 If the stat cards above don't load, <a href="https://github.com/ali-shan-9">visit my profile directly</a> — sometimes external services rate-limit on first load. Refresh once and they appear.</sub>
 
 ---
 
